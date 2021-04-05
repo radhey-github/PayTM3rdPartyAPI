@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringPaymentPaytmApplication {
 
 	public static void main(String[] args) {
+		System.out.println("paytm3rdpartyapi");
 		SpringApplication.run(SpringPaymentPaytmApplication.class, args);
 	}
 
